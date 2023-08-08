@@ -1,0 +1,28 @@
+.task-bar{
+    width: 100%;
+    height: 100px;
+    background-color: dimgrey;
+}
+.menu-bar{
+    float: left;
+    width: 20%;
+    height: 400px;
+    background-color: rgb(60, 63, 66);
+}
+.content-bar{
+    float: left;
+    width: 80%;
+    height: 400px;
+    background-color: rgb(180, 184, 186);
+}
+.footer-bar{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(144, 131, 131);
+}
+.content{
+    height: 400px;
+}
+body{
+margin: 0;
+}

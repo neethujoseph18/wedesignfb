@@ -1,0 +1,46 @@
+
+.outer-box{
+    width: 100%;
+    height: 500px;
+    background: cadetblue;
+    padding: 10px;
+    border: 2px solid;
+    border-color: blueviolet;
+}
+
+.box1{
+    width: 40%;
+    height: 30%;
+    margin: 10px;
+    background-color: bisque;
+    border:2px solid;
+    border-color: blue;
+    float: left;
+}
+.box2{
+    width: 40%;
+    height: 30%;
+    margin: 10px;
+    background-color: bisque;
+    border:2px solid;
+    border-color: blue;
+    float: left;
+}
+.box3{
+    width: 40%;
+    height: 30%;
+    margin: 10px;
+    background-color: bisque;
+    border:2px solid;
+    border-color: blue;
+    float: left;
+}
+.box4{
+    width: 40%;
+    height: 30%;
+    margin: 10px;
+    background-color: bisque;
+    border:2px solid;
+    border-color: blue;
+    float: left;
+}
